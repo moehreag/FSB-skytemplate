@@ -19,3 +19,5 @@ pack_format list for Minecraft versions:
 6: 1.16.2–1.16.5 
 
 7: 1.17
+
+(Most likely you will only ever use 6 and later because there is no FSB mod for earlier versions)
