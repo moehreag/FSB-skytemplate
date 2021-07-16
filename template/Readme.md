@@ -1,4 +1,4 @@
-####Readme for pack.mcmeta
+__Readme for pack.mcmeta__
 
 The most interesting Thing in this file is the
 pack_format entry.
