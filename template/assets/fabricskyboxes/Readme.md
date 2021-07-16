@@ -15,3 +15,6 @@ In the old Format, the textures are ordered like this:
 4: west
 5: north
 6: east
+
+
+DO NOT FORGET TO ROTATE THE "TOP" TEXTURE 90° CLOCKWISE
