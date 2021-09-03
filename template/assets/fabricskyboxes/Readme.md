@@ -7,6 +7,7 @@ have a look at https://github.com/AMereBagatelle/fabricskyboxes/blob/1.17.x-dev/
 In the old Format, the textures are ordered like this:
 
 1 2 3
+
 4 5 6
 
 1: bottom
