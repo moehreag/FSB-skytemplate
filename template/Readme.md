@@ -22,4 +22,6 @@ pack_format list for Minecraft versions:
 
 8: 1.18-1.18.2
 
+9: 1.19-1.19.2
+
 (Most likely you will only ever use 6 and later because there is no FSB mod for earlier versions)
