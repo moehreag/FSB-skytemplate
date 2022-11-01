@@ -2,7 +2,7 @@ __Readme FSB folder__
 
 If you're converting an existing OF/mcpatcher sky pack, your sky type for FSB will be 
 "square-textured" (like in the example _overworld_sky1.json_). For the schema-v2 docs 
-have a look at https://github.com/AMereBagatelle/fabricskyboxes/blob/1.17.x-dev/docs/schema-v2.md
+have a look at https://github.com/AMereBagatelle/fabricskyboxes/blob/1.19.x-dev/docs/schema-v2.md
 
 In the old Format, the textures are ordered like this:
 
@@ -18,4 +18,4 @@ In the old Format, the textures are ordered like this:
 6: east
 
 
-DO NOT FORGET TO ROTATE THE "TOP" TEXTURE 90° CLOCKWISE
+If you're using FSB < 0.6.0, you need to rotate your TOP texture 90° clockwise!
